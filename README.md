@@ -21,8 +21,6 @@ This lab walks through the process of downloading, installing, and configuring a
 - Allocate RAM: **4096 MB** (recommended).
 - Create a virtual hard disk: **50 GB** VDI, dynamically allocated.
 
-📸 *Screenshot Example*  
-![Create VM](VirtualBox_Win10_30_06_2025_00_14_11.png)
 
 ---
 
@@ -31,8 +29,6 @@ This lab walks through the process of downloading, installing, and configuring a
 - Under **Controller: IDE**, click the empty disk icon.
 - Choose a disk file ➜ select the downloaded Windows 10 ISO.
 
-📸 *Screenshot Example*  
-![Mount ISO](VirtualBox_Win10_30_06_2025_00_16_35.png)
 
 ---
 
@@ -41,29 +37,28 @@ This lab walks through the process of downloading, installing, and configuring a
 - Select Language, Time Format, Keyboard (keep defaults) ➜ Click **Next**.
 
 📸 *Screenshot Example*  
-![Windows Setup Language](VirtualBox_Win10_30_06_2025_00_16_46.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_00_14_11.png)
 
 ---
 
 ### 5. 🔑 Skip Product Key
 - Click **I don’t have a product key** to continue without activation.
 
-📸 *Screenshot Example*  
-![Skip Product Key](VirtualBox_Win10_30_06_2025_01_34_49.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_00_16_35.png)
 
 ---
 
 ### 6. 🧩 Choose Windows 10 Edition
 - Choose **Windows 10 Home** or **Pro** ➜ Click **Next**.
 
-📸 *Screenshot Example*  
-![Choose Edition](VirtualBox_Win10_30_06_2025_01_34_49.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_00_16_46.png)
 
 ---
 
 ### 7. 📜 Accept License & Custom Install
 - Accept terms ➜ Choose **Custom: Install Windows only (advanced)**.
 - Select your virtual hard drive ➜ Click **Next**.
+
 
 ---
 
@@ -82,14 +77,13 @@ This lab walks through the process of downloading, installing, and configuring a
 ### 10. 🌐 Enable Network for Domain or Internet Access
 - Open **Control Panel** ➜ Click **Network and Sharing Center**.
 
-📸 *Screenshot Example*  
-![Control Panel > Network](VirtualBox_Win10_30_06_2025_01_33_24.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_01_32_25.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_01_33_24.png)
 
 - Click **Change adapter settings** on the left.
 - Right-click **Ethernet > Properties**.
 
-📸 *Screenshot Example*  
-![Ethernet Properties](VirtualBox_Win10_30_06_2025_01_34_49.png)
+![imagealt](https://github.com/techtracker619/win10/blob/ea197cdb5e25ea822b7b01f795ba175d29e5a615/screenshots/VirtualBox_Win10_30_06_2025_01_34_49.png)
 
 ---
 
